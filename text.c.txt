@@ -1,0 +1,7 @@
+#include <stido>
+
+int main()
+{
+	printf("hhh\n");
+	return 0;
+}
